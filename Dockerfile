@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/ubi-micro:9.4-13
+FROM registry.access.redhat.com/ubi9/ubi-micro:9.9-1794478307
 
 LABEL name="sample demo image"
 LABEL description="a sample image for demo"
